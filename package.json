@@ -1,0 +1,8 @@
+{
+  "name": "daily-algo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Perlou/daily-algo.git",
+  "author": "perlou <perloukevin@gmailcom>",
+  "license": "MIT"
+}
